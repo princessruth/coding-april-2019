@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    background-color: beige;
+    color: whitesmoke;
+    
+}
+
+header {
+    background-color: aquamarine;
+    color: darkolivegreen;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+nav {
+    background-color: yellow;
+    width: 50%;
+    text-align: right;
+    padding: 7vh;
+    height: 10px;
+}
+nav a {
+    color: peru;
+    padding: 6vh;
+}
+
+img {
+    margin-top: 15vh;
+    height: 70vh;
+    width: 50%;
+    
+}
+
+footer {
+    height: 25vh;
+    width: 100%;
+    background-color: silver;
+    margin-top: 75vh;
+}
